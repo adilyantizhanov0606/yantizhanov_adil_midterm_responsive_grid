@@ -85,6 +85,42 @@ footer ul li {
   }
 }
 
+#product1 {
+    padding: 80px;
+}
+
+#product2 {
+    padding: 80px;
+}
+
+#product3 {
+    padding: 80px;
+}
+
+#product4 {
+    padding: 80px;
+}
+
+#product5 {
+    padding: 80px;
+}
+
+#product6 {
+    padding: 80px;
+}
+
+#see-products {
+    background-color: #696969;
+     margin-bottom: 50px;
+     padding: 40px;
+}
+
+
+#see-more {
+    background-color: #696969;
+    margin-bottom: 50px;
+}
+
 
 
 
