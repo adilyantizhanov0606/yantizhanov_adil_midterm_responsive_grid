@@ -1,0 +1,91 @@
+header {
+  background-color: #696969;
+  font-family: "Roboto Slab", serif;
+  color: #ffff;
+}
+
+.m-hidden {
+  display: none;
+}
+
+.d-hidden {
+  display: block;
+}
+
+header ul li {
+  display: inline-flex;
+  padding-right: 30px;
+  padding-top: 15px;
+}
+
+#nav-button {
+  padding-left: 60px;
+  padding-top: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .m-hidden {
+    display: block;
+  }
+
+  .d-hidden {
+    display: none;
+  }
+}
+
+#main-hero {
+    padding: 150px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+#promo-video1 {
+    padding: 180px;
+     margin-bottom: 50px;
+}
+
+#promo-video2 {
+    padding: 180px;
+    margin-bottom: 50px;
+}
+
+main {
+  font-family: "Roboto Slab", serif;
+}
+
+footer {
+    background-color: #696969;
+  font-family: "Roboto Slab", serif;
+  color: #ffff;
+  padding: 20px;
+}
+
+footer ul li {
+    display: grid;
+}
+
+#footer-logo {
+    text-align: center;
+}
+
+#promo-video-p {
+    display: none;
+}
+
+#promo-video-p2 {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+  #promo-video-p {
+    display: block;
+  }
+  #promo-video-p2 {
+    display: block;
+  }
+}
+
+
+
+
+

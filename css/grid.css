@@ -33,6 +33,7 @@ body, p, h1, h2, h3, h4, h5 {
    text-align: center;
    margin-top: 10px;
    margin-bottom:10px;
+   border-radius: 23px;
  }
 
 .center-grid-con {
